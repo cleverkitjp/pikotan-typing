@@ -2,52 +2,52 @@
 const SENTENCES = {
   "easy": [
     {
-      "jp": "りんご apple だよ",
-      "roma": "rinngo apple dayo"
+      "jp": "りんご apple",
+      "roma": "rinngo apple"
     },
     {
-      "jp": "みず water をのむ",
-      "roma": "mizu water wonomu"
+      "jp": "みず water",
+      "roma": "mizu water"
     },
     {
-      "jp": "おちゃ tea をのむ",
-      "roma": "ocha tea wonomu"
+      "jp": "おちゃ tea",
+      "roma": "ocha tea"
     },
     {
-      "jp": "パン bread をたべる",
-      "roma": "pann bread wotaberu"
+      "jp": "パン bread",
+      "roma": "pann bread"
     },
     {
-      "jp": "にく meat をかう",
-      "roma": "niku meat wokau"
+      "jp": "にく meat",
+      "roma": "niku meat"
     },
     {
-      "jp": "さかな fish はおいしい",
-      "roma": "sakana fish ha oishii"
+      "jp": "さかな fish",
+      "roma": "sakana fish"
     },
     {
-      "jp": "やさい vegetable をたべる",
-      "roma": "yasai vegetable wo taberu"
+      "jp": "やさい vegetable",
+      "roma": "yasai vegetable"
     },
     {
-      "jp": "くだもの fruit だよ",
-      "roma": "kudamono fruit dayo"
+      "jp": "くだもの fruit",
+      "roma": "kudamono fruit"
     },
     {
-      "jp": "たまご egg をわる",
-      "roma": "tamago egg wowaru"
+      "jp": "たまご egg",
+      "roma": "tamago egg"
     },
     {
-      "jp": "いぬ dog がいる",
-      "roma": "inu dog ga iru"
+      "jp": "いぬ dog",
+      "roma": "inu dog"
     },
     {
-      "jp": "ねこ cat がいる",
-      "roma": "neko cat gairu"
+      "jp": "ねこ cat",
+      "roma": "neko cat"
     },
     {
-      "jp": "とり bird がとぶ",
-      "roma": "tori bird gatobu"
+      "jp": "とり bird",
+      "roma": "tori bird"
     },
     {
       "jp": "あか red",
@@ -58,316 +58,316 @@ const SENTENCES = {
       "roma": "ao blue"
     },
     {
-      "jp": "きいろは yellow だよ",
-      "roma": "kiiroha yellow dayo"
+      "jp": "きいろ yellow",
+      "roma": "kiiroha yellow"
     },
     {
-      "jp": "みどり green だね",
-      "roma": "midori green dane"
+      "jp": "みどり green",
+      "roma": "midori green"
     },
     {
-      "jp": "もも peach おいしいね",
-      "roma": "momo peach oishiine"
+      "jp": "もも peach",
+      "roma": "momo peach"
     },
     {
-      "jp": "なし pear は おいしいよ",
-      "roma": "nashi pear ha oishiiyo"
+      "jp": "なし pear",
+      "roma": "nashi pear"
     },
     {
-      "jp": "ぶどう grape だよ",
-      "roma": "budou grape dayo"
+      "jp": "ぶどう grape",
+      "roma": "budou grape"
     },
     {
-      "jp": "メロン melon だね",
-      "roma": "meronn melon dane"
+      "jp": "メロン melon",
+      "roma": "meronn melon"
     },
     {
-      "jp": "いちご strawberry だよ",
-      "roma": "ichigo strawberry dayo"
+      "jp": "いちご strawberry",
+      "roma": "ichigo strawberry"
     },
     {
-      "jp": "かさ umbrella をもつ",
-      "roma": "kasa umbrella wo motsu"
+      "jp": "かさ umbrella",
+      "roma": "kasa umbrella"
     },
     {
-      "jp": "つくえ desk をふく",
-      "roma": "tsukue desk wofuku"
+      "jp": "つくえ desk",
+      "roma": "tsukue desk"
     },
     {
-      "jp": "いす chair にすわる",
-      "roma": "isu chair nisuwaru"
+      "jp": "いす chair",
+      "roma": "isu chair"
     },
     {
-      "jp": "はこ box をあける",
-      "roma": "hako box woakeru"
+      "jp": "はこ box",
+      "roma": "hako box"
     },
     {
-      "jp": "かみ paper をきる",
-      "roma": "kami paper wokiru"
+      "jp": "かみ paper",
+      "roma": "kami paper"
     },
     {
-      "jp": "え picture をかく",
-      "roma": "e picture wokaku"
+      "jp": "え picture",
+      "roma": "e picture"
     },
     {
-      "jp": "かばん bag をもつ",
-      "roma": "kabann bag womotsu"
+      "jp": "かばん bag",
+      "roma": "kabann bag"
     },
     {
-      "jp": "てがみ letter をよむ",
-      "roma": "tegami letter woyomu"
+      "jp": "てがみ letter",
+      "roma": "tegami letter"
     },
     {
-      "jp": "ほん book をよむ",
-      "roma": "honn book woyomu"
+      "jp": "ほん book",
+      "roma": "honn book"
     },
     {
-      "jp": "えんぴつ pencil をかう",
-      "roma": "ennpitsu pencil wokau"
+      "jp": "えんぴつ pencil",
+      "roma": "ennpitsu pencil"
     },
     {
-      "jp": "けしごむ eraser をつかう",
-      "roma": "keshigomu eraser wotsukau"
+      "jp": "けしごむ eraser",
+      "roma": "keshigomu eraser"
     },
     {
-      "jp": "ものさし ruler をつかう",
-      "roma": "monosashi ruler wotsukau"
+      "jp": "ものさし ruler",
+      "roma": "monosashi ruler"
     },
     {
-      "jp": "みずいろ color だよ",
-      "roma": "mizuiro color dayo"
+      "jp": "色 color",
+      "roma": "iro color"
     },
     {
-      "jp": "はな flower をみる",
-      "roma": "hana flower womiru"
+      "jp": "花 flower",
+      "roma": "hana flower"
     },
     {
-      "jp": "き tree をみる",
-      "roma": "ki tree womiru"
+      "jp": "木 tree",
+      "roma": "ki tree"
     },
     {
-      "jp": "くさ grass をさわる",
-      "roma": "kusa grass wosawaru"
+      "jp": "くさ grass",
+      "roma": "kusa grass"
     },
     {
-      "jp": "かわ river をわたる",
-      "roma": "kawa river wowataru"
+      "jp": "川 river",
+      "roma": "kawa river"
     },
     {
-      "jp": "そら sky をみる",
-      "roma": "sora sky womiru"
+      "jp": "そら sky",
+      "roma": "sora sky"
     },
     {
-      "jp": "ゆき snow がふる",
-      "roma": "yuki snow gafuru"
+      "jp": "ゆき snow",
+      "roma": "yuki snow"
     },
     {
-      "jp": "あめ rain がふる",
-      "roma": "ame rain gafuru"
+      "jp": "あめ rain",
+      "roma": "ame rain"
     },
     {
-      "jp": "かぜ wind がふく",
-      "roma": "kaze wind gafuku"
+      "jp": "かぜ wind",
+      "roma": "kaze wind"
     },
     {
-      "jp": "やま mountain をみる",
-      "roma": "yama mountain womiru"
+      "jp": "やま mountain",
+      "roma": "yama mountain"
     },
     {
-      "jp": "うみ sea をみる",
-      "roma": "umi sea womiru"
+      "jp": "うみ sea",
+      "roma": "umi sea"
     },
     {
-      "jp": "たいよう sun がでる",
-      "roma": "taiyou sun gaderu"
+      "jp": "たいよう sun",
+      "roma": "taiyou sun"
     },
     {
-      "jp": "よる time だよ",
-      "roma": "yoru time dayo"
+      "jp": "よる night",
+      "roma": "yoru night"
     },
     {
-      "jp": "いちにち a day だよ",
-      "roma": "ichinichi a day dayo"
+      "jp": "いちにち a day",
+      "roma": "ichinichi a day"
     },
     {
-      "jp": "あし leg をのばす",
-      "roma": "ashi wonobasu"
+      "jp": "あし leg",
+      "roma": "ashi leg"
     },
     {
-      "jp": "て hand をあげる",
-      "roma": "te woageru"
+      "jp": "て hand",
+      "roma": "te hand"
     },
     {
-      "jp": "こえ voice をだす",
-      "roma": "koe wodasu"
+      "jp": "こえ voice",
+      "roma": "koe voice"
     },
     {
-      "jp": "えがお smile をみせる",
-      "roma": "egao smile wo miseru"
+      "jp": "えがお smile",
+      "roma": "egao smile"
     },
     {
-      "jp": "ぼうし hat をかぶる",
-      "roma": "boushi hat wokaburu"
+      "jp": "ぼうし hat",
+      "roma": "boushi hat"
     },
     {
-      "jp": "くつ shoes をはく",
-      "roma": "kutsu shoes wohaku"
+      "jp": "くつ shoes",
+      "roma": "kutsu shoes"
     },
     {
-      "jp": "こおり ice はつめたい",
-      "roma": "koori ice ha tsumetai"
+      "jp": "こおり ice",
+      "roma": "koori ice"
     },
     {
-      "jp": "かぎ key をかける",
-      "roma": "kagi key wo kakeru"
+      "jp": "かぎ key",
+      "roma": "kagi key"
     },
     {
-      "jp": "こうえん park にいく",
-      "roma": "kouen park niiku"
+      "jp": "こうえん park",
+      "roma": "kouen park"
     },
     {
-      "jp": "みせ shop にいく",
-      "roma": "mise shop niiku"
+      "jp": "みせ shop",
+      "roma": "mise shop"
     },
     {
-      "jp": "しゃしん photo をとる",
-      "roma": "shashinn photo wotoru"
+      "jp": "しゃしん photo",
+      "roma": "shashinn photo"
     },
     {
-      "jp": "テレビ TV をみる",
-      "roma": "terebi TV womiru"
+      "jp": "テレビ TV",
+      "roma": "terebi TV"
     },
     {
-      "jp": "おんがく music をきく",
-      "roma": "onngaku music wokiku"
+      "jp": "おんがく music",
+      "roma": "onngaku music"
     },
     {
-      "jp": "かぞく family だよ",
-      "roma": "kazoku family dayo"
+      "jp": "かぞく family",
+      "roma": "kazoku family"
     },
     {
-      "jp": "father は おとうさん",
-      "roma": "father ha otousann"
+      "jp": "father おとうさん",
+      "roma": "father otousann"
     },
     {
-      "jp": "mother は おかあさん",
-      "roma": "mother ha okaasann"
+      "jp": "mother おかあさん",
+      "roma": "mother okaasann"
     },
     {
-      "jp": "きょうだいはbrother",
-      "roma": "kyoudai ha brother"
+      "jp": "きょうだい brother",
+      "roma": "kyoudai brother"
     },
     {
-      "jp": "しまいは sister",
-      "roma": "shimai ha sister"
+      "jp": "しまい sister",
+      "roma": "shimai sister"
     },
     {
-      "jp": "ともだち friend だね",
-      "roma": "tomodachi friend dane"
+      "jp": "ともだち friend",
+      "roma": "tomodachi friend"
     },
     {
       "jp": "りんごをかう",
-      "roma": "rinngo wokau"
+      "roma": "rinngo wo kau"
     },
     {
       "jp": "すいかをわる",
-      "roma": "suika wowaru"
+      "roma": "suika wo waru"
     },
     {
       "jp": "にくをやく",
-      "roma": "niku woyaku"
+      "roma": "niku wo yaku"
     },
     {
       "jp": "パンをかう",
-      "roma": "pann wokau"
+      "roma": "pann wo kau"
     },
     {
       "jp": "あめがふる",
-      "roma": "ame gafuru"
+      "roma": "ame ga furu"
     },
     {
       "jp": "ゆきがふる",
-      "roma": "yuki gafuru"
+      "roma": "yuki ga furu"
     },
     {
       "jp": "そらをみる",
-      "roma": "sora womiru"
+      "roma": "sora wo miru"
     },
     {
-      "jp": "かわをみる",
-      "roma": "kawa womiru"
+      "jp": "かわがながれる",
+      "roma": "kawa ga nagareru"
     },
     {
       "jp": "やまをみる",
-      "roma": "yama womiru"
+      "roma": "yama wo miru"
     },
     {
-      "jp": "うみをみる",
-      "roma": "umi womiru"
+      "jp": "うみをおよぐ",
+      "roma": "umi wo oyogu"
     },
     {
       "jp": "はなをかう",
-      "roma": "hana wokau"
+      "roma": "hana wo kau"
     },
     {
       "jp": "あさにおきる",
-      "roma": "asa niokiru"
+      "roma": "asa ni okiru"
     },
     {
       "jp": "よるにねる",
-      "roma": "yoru minneru"
+      "roma": "yoru ni neru"
     },
     {
       "jp": "てをあらう",
-      "roma": "te woarau"
+      "roma": "te wo arau"
     },
     {
       "jp": "あしをのばす",
-      "roma": "ashi wonobasu"
+      "roma": "ashi wo nobasu"
     },
     {
       "jp": "みずをのむ",
-      "roma": "mizu wonomu"
+      "roma": "mizu wo nomu"
     },
     {
       "jp": "おちゃをいれる",
-      "roma": "ocha woineru"
+      "roma": "ocha wo ineru"
     },
     {
       "jp": "かさをさす",
-      "roma": "kasa wosasu"
+      "roma": "kasa wo sasu"
     },
     {
       "jp": "いすにすわる",
-      "roma": "isu nisuwaru"
+      "roma": "isu ni suwaru"
     },
     {
       "jp": "つくえをふく",
-      "roma": "tsukue wofuku"
+      "roma": "tsukue wo fuku"
     },
     {
       "jp": "はこをあける",
-      "roma": "hako woakeru"
+      "roma": "hako wo akeru"
     },
     {
       "jp": "かみをきる",
-      "roma": "kami wokiru"
+      "roma": "kami wo kiru"
     },
     {
       "jp": "けしごむをつかう",
-      "roma": "keshigomu wotsukau"
+      "roma": "keshigomu wo tsukau"
     },
     {
       "jp": "えんぴつでかく",
-      "roma": "ennpitsu dekaku"
+      "roma": "ennpitsu de kaku"
     },
     {
       "jp": "えをかく",
-      "roma": "e wokaku"
+      "roma": "e wo kaku"
     },
     {
       "jp": "かおをあらう",
-      "roma": "kao woarau"
+      "roma": "kao wo arau"
     },
     {
       "jp": "あめがふる",
@@ -399,23 +399,23 @@ const SENTENCES = {
     },
     {
       "jp": "みせへいく",
-      "roma": "mise heiku"
+      "roma": "mise he iku"
     },
     {
       "jp": "へやにはいる",
-      "roma": "heya nihairu"
+      "roma": "heya ni hairu"
     },
     {
       "jp": "いえにかえる",
-      "roma": "ie nikaeru"
+      "roma": "ie ni kaeru"
     },
     {
       "jp": "こえをだす",
-      "roma": "koe wodasu"
+      "roma": "koe wo dasu"
     },
     {
       "jp": "うたをうたう",
-      "roma": "uta woutau"
+      "roma": "uta wo utau"
     },
     {
       "jp": "あしをうごかす",
@@ -430,8 +430,8 @@ const SENTENCES = {
       "roma": "e wo miru"
     },
     {
-      "jp": "ひをみる",
-      "roma": "hi wo miru"
+      "jp": "せんせいだいすき",
+      "roma": "sensei daisuki"
     },
     {
       "jp": "はなをみる",
@@ -446,16 +446,16 @@ const SENTENCES = {
       "roma": "ike wo miru"
     },
     {
-      "jp": "そらをあおぐ",
-      "roma": "sora wo aogu"
+      "jp": "えいごをはなす",
+      "roma": "eigo wo hanasu"
     },
     {
       "jp": "はをみがく",
       "roma": "ha wo migaku"
     },
     {
-      "jp": "みずをかける",
-      "roma": "mizu wo kakeru"
+      "jp": "タイピング",
+      "roma": "taipinngu"
     },
     {
       "jp": "あさをむかえる",
@@ -474,12 +474,12 @@ const SENTENCES = {
       "roma": "ashi wo tomeru"
     },
     {
-      "jp": "ひをあびる",
-      "roma": "hiwo abiru"
+      "jp": "しゅくだい",
+      "roma": "shukudai"
     },
     {
-      "jp": "かおをみせる",
-      "roma": "kao wo miseru"
+      "jp": "こうつうあんぜん",
+      "roma": "koutsuuannzenn"
     }
   ],
   "normal": [
@@ -488,12 +488,12 @@ const SENTENCES = {
       "roma": "gyuunyuu milk wokudasai"
     },
     {
-      "jp": "おかあさんは happy だよ",
-      "roma": "okaasannha happy dayo"
+      "jp": "おかあさんは happy しあわせ",
+      "roma": "okaasannha happy shiawase"
     },
     {
       "jp": "あさごはんで bread をたべた",
-      "roma": "asagohannde bread wotabeta"
+      "roma": "asagohannde bread wo tabeta"
     },
     {
       "jp": "やさいに salt を ふる",
@@ -501,15 +501,15 @@ const SENTENCES = {
     },
     {
       "jp": "やさいは vegetable",
-      "roma": "yasaiha vegetable"
+      "roma": "yasai ha vegetable"
     },
     {
       "jp": "あかい apple をかう",
       "roma": "akai apple wokau"
     },
     {
-      "jp": "ばなな banana をたべる",
-      "roma": "banana banana wo taberu"
+      "jp": "banana をたべる",
+      "roma": "banana wo taberu"
     },
     {
       "jp": "オレンジ orange をかう",
@@ -545,99 +545,99 @@ const SENTENCES = {
     },
     {
       "jp": "みず water をのむ",
-      "roma": "mizu water wonomu"
+      "roma": "mizu water wo nomu"
     },
     {
       "jp": "おちゃ tea をのむ",
-      "roma": "ocha tea wonomu"
+      "roma": "ocha tea wo nomu"
     },
     {
       "jp": "ジュース juice をえらぶ",
-      "roma": "ju-su juice woerabu"
+      "roma": "ju-su juice wo erabu"
     },
     {
       "jp": "やさい vegetable をきざむ",
-      "roma": "yasai vegetable wokizamu"
+      "roma": "yasai vegetable wo kizamu"
     },
     {
       "jp": "くだもの fruit をもらう",
-      "roma": "kudamono fruit womorau"
+      "roma": "kudamono fruit wo morau"
     },
     {
       "jp": "じゃがいも potato をきる",
-      "roma": "jagaimo potato wokiru"
+      "roma": "jagaimo potato wo kiru"
     },
     {
       "jp": "にんじん carrot をいれる",
-      "roma": "ninnjinn carrot woireru"
+      "roma": "ninnjinn carrot wo ireru"
     },
     {
       "jp": "くっきー cookie をたべる",
-      "roma": "kukki- cookie wotaberu"
+      "roma": "kukki- cookie wo taberu"
     },
     {
       "jp": "けーき cake をえらぶ",
-      "roma": "ke-ki cake woerabu"
+      "roma": "ke-ki cake wo erabu"
     },
     {
       "jp": "いぬ dog をみつける",
-      "roma": "inu dog womitsukeru"
+      "roma": "inu dog wo mitsukeru"
     },
     {
       "jp": "ねこ cat がはしる",
-      "roma": "neko cat gahashiru"
+      "roma": "neko cat ga hashiru"
     },
     {
       "jp": "とり bird がとんだ",
-      "roma": "tori bird gatonnda"
+      "roma": "tori bird ga tonnda"
     },
     {
       "jp": "さかな fish がおよぐ",
-      "roma": "sakana fish gaoyogu"
+      "roma": "sakana fish ga oyogu"
     },
     {
       "jp": "うさぎ rabbit をみる",
-      "roma": "usagi rabbit womiru"
+      "roma": "usagi rabbit wo miru"
     },
     {
       "jp": "くま bear がでた",
-      "roma": "kuma bear gadeta"
+      "roma": "kuma bear ga deta"
     },
     {
       "jp": "らいおん lion をみる",
-      "roma": "raionn lion womiru"
+      "roma": "raionn lion wo miru"
     },
     {
       "jp": "とら tiger をみる",
-      "roma": "tora tiger womiru"
+      "roma": "tora tiger wo miru"
     },
     {
       "jp": "ぞう elephant をみる",
-      "roma": "zou elephant womiru"
+      "roma": "zou elephant wo miru"
     },
     {
       "jp": "さる monkey をみる",
-      "roma": "saru monkey womiru"
+      "roma": "saru monkey wo miru"
     },
     {
       "jp": "パンダ panda をみる",
-      "roma": "panda panda womiru"
+      "roma": "panda panda wo miru"
     },
     {
       "jp": "うま horse にのる",
-      "roma": "uma horse ninoru"
+      "roma": "uma horse ni noru"
     },
     {
       "jp": "うし cow がなく",
-      "roma": "ushi cow ganaku"
+      "roma": "ushi cow ga naku"
     },
     {
       "jp": "ぶた pig をみる",
-      "roma": "buta pig womiru"
+      "roma": "buta pig wo miru"
     },
     {
       "jp": "ひつじ sheep をみる",
-      "roma": "hitsuji sheep womiru"
+      "roma": "hitsuji sheep wo miru"
     },
     {
       "jp": "がっこう school にいく",
@@ -657,15 +657,15 @@ const SENTENCES = {
     },
     {
       "jp": "ともだち friend とあそぶ",
-      "roma": "tomodachi friend toasobu"
+      "roma": "tomodachi friend to asobu"
     },
     {
       "jp": "ほん book をよむ",
-      "roma": "honn book woyomu"
+      "roma": "honn book wo yomu"
     },
     {
       "jp": "ノート notebook にかく",
-      "roma": "no-to notebook nikaku"
+      "roma": "no-to notebook ni kaku"
     },
     {
       "jp": "ペン pen でかく",
@@ -673,107 +673,107 @@ const SENTENCES = {
     },
     {
       "jp": "えんぴつ pencil をつかう",
-      "roma": "ennpitsu pencil wotsukau"
+      "roma": "ennpitsu pencil wo tsukau"
     },
     {
       "jp": "けしごむ eraser をつかう",
-      "roma": "keshigomu eraser wotsukau"
+      "roma": "keshigomu eraser wo tsukau"
     },
     {
       "jp": "ものさし ruler をつかう",
-      "roma": "monosashi ruler wotsukau"
+      "roma": "monosashi ruler wo tsukau"
     },
     {
       "jp": "かばん bag をもちあげる",
-      "roma": "kabann bag womochiageru"
+      "roma": "kabann bag wo mochiageru"
     },
     {
       "jp": "つくえ desk をふく",
-      "roma": "tsukue desk wofuku"
+      "roma": "tsukue desk wo fuku"
     },
     {
       "jp": "いす chair にすわる",
-      "roma": "isu chair nisuwaru"
+      "roma": "isu chair ni suwaru"
     },
     {
       "jp": "こくばん blackboard をみる",
-      "roma": "kokubann blackboard womiru"
+      "roma": "kokubann blackboard wo miru"
     },
     {
       "jp": "きょうしつ classroom にはいる",
-      "roma": "kyoushitsu classroom nihairu"
+      "roma": "kyoushitsu classroom ni hairu"
     },
     {
       "jp": "きゅうしょく school lunch をまつ",
-      "roma": "kyuushoku school lunch womatsu"
+      "roma": "kyuushoku school lunch wo matsu"
     },
     {
       "jp": "しゅくだい homework をやる",
-      "roma": "shukudai homework woyaru"
+      "roma": "shukudai homework wo yaru"
     },
     {
       "jp": "てすと test をうける",
-      "roma": "tesuto test wokeru"
+      "roma": "tesuto test wo keru"
     },
     {
       "jp": "じゅぎょう lesson をきく",
-      "roma": "jugyou lesson wokiku"
+      "roma": "jugyou lesson wo kiku"
     },
     {
       "jp": "おとうさん father とあるく",
-      "roma": "otousann father toaruku"
+      "roma": "otousann father to aruku"
     },
     {
       "jp": "おかあさん mother といく",
-      "roma": "okaasann mother toiku"
+      "roma": "okaasann mother to iku"
     },
     {
       "jp": "おにいさん brother がよぶ",
-      "roma": "oniisann brother gayobu"
+      "roma": "oniisann brother ga yobu"
     },
     {
       "jp": "おねえさん sister がくる",
-      "roma": "oneesann sister gakuru"
+      "roma": "oneesann sister ga kuru"
     },
     {
       "jp": "かぞく family がそろう",
-      "roma": "kazoku family gasorou"
+      "roma": "kazoku family ga sorou"
     },
     {
       "jp": "おとこのこ boy がはしる",
-      "roma": "otokonoko boy gahashiru"
+      "roma": "otokonoko boy ga hashiru"
     },
     {
       "jp": "おんなのこ girl がうたう",
-      "roma": "onnnanoko girl gautau"
+      "roma": "onnnanoko girl ga utau"
     },
     {
       "jp": "おとこのひと man がとおる",
-      "roma": "otokonohito man gatooru"
+      "roma": "otokonohito man ga tooru"
     },
     {
       "jp": "おんなのひと woman がわらう",
-      "roma": "onnnanohito woman gawarau"
+      "roma": "onnnanohito woman ga warau"
     },
     {
       "jp": "あかちゃん baby がねた",
-      "roma": "akachann baby ganeta"
+      "roma": "akachann baby ga neta"
     },
     {
       "jp": "みんな everyone があつまる",
-      "roma": "minnna everyone gaatsumaru"
+      "roma": "minnna everyone ga atsumaru"
     },
     {
       "jp": "わたし I がよぶ",
-      "roma": "watashi I gayobu"
+      "roma": "watashi I ga yobu"
     },
     {
       "jp": "あなた you がくる",
-      "roma": "anata you gakuru"
+      "roma": "anata you ga kuru"
     },
     {
       "jp": "わたしたち we がいく",
-      "roma": "watashitachi we gaiku"
+      "roma": "watashitachi we ga iku"
     },
     {
       "jp": "いく go じかんだよ",
@@ -785,19 +785,19 @@ const SENTENCES = {
     },
     {
       "jp": "あそぶ play のじかん",
-      "roma": "asobu play nojikann"
+      "roma": "asobu play no jikann"
     },
     {
       "jp": "はしる run のれんしゅう",
-      "roma": "hashiru run norennshuu"
+      "roma": "hashiru run no rennshuu"
     },
     {
       "jp": "あるく walk のれんしゅう",
-      "roma": "aruku walk norennshuu"
+      "roma": "aruku walk no rennshuu"
     },
     {
       "jp": "たべる eat のじかん",
-      "roma": "taberu eat nojikann"
+      "roma": "taberu eat no jikann"
     },
     {
       "jp": "ジュースを drink のむ",
@@ -848,16 +848,16 @@ const SENTENCES = {
       "roma": "tobu jump wosuru"
     },
     {
-      "jp": "かんがえる think をする",
-      "roma": "kanngaeru think wosuru"
+      "jp": "かんがえる think",
+      "roma": "kanngaeru think"
     },
     {
-      "jp": "てつだう help をする",
-      "roma": "tetsudau help wosuru"
+      "jp": "てつだう help",
+      "roma": "tetsudau help"
     },
     {
       "jp": "たいよう sun がのぼる",
-      "roma": "taiyou sun ganoboru"
+      "roma": "taiyou sun ga noboru"
     },
     {
       "jp": "はれる sunny",
@@ -865,11 +865,11 @@ const SENTENCES = {
     },
     {
       "jp": "あめ rain がふる",
-      "roma": "ame rain gafuru"
+      "roma": "ame rain ga furu"
     },
     {
       "jp": "くも cloud がでる",
-      "roma": "kumo cloud gaderu"
+      "roma": "kumo cloud ga deru"
     },
     {
       "jp": "くもる cloudy そらだよ",
@@ -877,23 +877,23 @@ const SENTENCES = {
     },
     {
       "jp": "かぜ wind がふく",
-      "roma": "kaze wind gafuku"
+      "roma": "kaze wind ga fuku"
     },
     {
-      "jp": "かぜがふいている windy ",
+      "jp": "かぜがふいている windy",
       "roma": "kazegafuiteiru windy"
     },
     {
       "jp": "ゆき snow がふる",
-      "roma": "yuki snow gafuru"
+      "roma": "yuki snow ga furu"
     },
     {
-      "jp": "ゆき snowy だよ",
+      "jp": "ゆきがふっている snowy",
       "roma": "yuki snowy dayo"
     },
     {
-      "jp": "あつい hot よるだよ",
-      "roma": "atsui hot yorudayo"
+      "jp": "あついね hot",
+      "roma": "atsuine hot"
     },
     {
       "jp": "あたたかい warm くうきだよ",
@@ -909,7 +909,7 @@ const SENTENCES = {
     },
     {
       "jp": "てんき weather がかわる",
-      "roma": "tennki weather gakawaru"
+      "roma": "tennki weather ga kawaru"
     },
     {
       "jp": "うれしい happy きもちだよ",
@@ -973,11 +973,11 @@ const SENTENCES = {
     },
     {
       "jp": "あした tomorrow のよてい",
-      "roma": "ashita tomorrow noyotei"
+      "roma": "ashita tomorrow no yotei"
     },
     {
       "jp": "きのう yesterday のこと",
-      "roma": "kinou yesterday nokoto"
+      "roma": "kinou yesterday no koto"
     },
     {
       "jp": "いま now",
@@ -985,39 +985,39 @@ const SENTENCES = {
     },
     {
       "jp": "すぐ soon にいくよ",
-      "roma": "sugu soon niikuyo"
+      "roma": "sugu soon ni ikuyo"
     },
     {
-      "jp": "あとで later にする",
-      "roma": "atode later nisuru"
+      "jp": "あとで later",
+      "roma": "atode later"
     },
     {
-      "jp": "げつようび Monday にいく",
-      "roma": "getsuyoubi Monday niiku"
+      "jp": "げつようび Monday はじゅく",
+      "roma": "getsuyoubi Monday ha juku"
     },
     {
-      "jp": "かようび Tuesday にいく",
-      "roma": "kayoubi Tuesday niiku"
+      "jp": "かようび Tuesday はスイミング",
+      "roma": "kayoubi Tuesday ha suiminngu"
     },
     {
-      "jp": "すいようび Wednesday にいく",
-      "roma": "suiyoubi Wednesday niiku"
+      "jp": "すいようび Wednesday はサッカー",
+      "roma": "suiyoubi Wednesday ha sakka-"
     },
     {
-      "jp": "もくようび Thursday にいく",
-      "roma": "mokuyoubi Thursday niiku"
+      "jp": "もくようび Thursday はけんどう",
+      "roma": "mokuyoubi Thursday ha kendou"
     },
     {
-      "jp": "きんようび Friday にいく",
-      "roma": "kinnyoubi Friday niiku"
+      "jp": "きんようび Friday はくもん",
+      "roma": "kinnyoubi Friday ha kumonn"
     },
     {
-      "jp": "どようび Saturday にいく",
-      "roma": "doyoubi Saturday niiku"
+      "jp": "どようび Saturday にあそぼう",
+      "roma": "doyoubi Saturday ni asobou"
     },
     {
-      "jp": "にちようび Sunday にいく",
-      "roma": "nichiyoubi Sunday niiku"
+      "jp": "にちようび Sunday はたいくつ",
+      "roma": "nichiyoubi Sunday ha taikutsu"
     },
     {
       "jp": "つき month をみる",
@@ -1037,19 +1037,19 @@ const SENTENCES = {
     },
     {
       "jp": "いえ home にかえる",
-      "roma": "ie home nikaeru"
+      "roma": "ie home ni kaeru"
     },
     {
       "jp": "いえ house のまえ",
-      "roma": "ie house nomae"
+      "roma": "ie house no mae"
     },
     {
       "jp": "へや room にいる",
-      "roma": "heya room niiru"
+      "roma": "heya room ni iru"
     },
     {
       "jp": "べっど bed でやすむ",
-      "roma": "beddo bed deyasumu"
+      "roma": "beddo bed de yasumu"
     },
     {
       "jp": "ふろ bath にはいる",
@@ -1061,147 +1061,147 @@ const SENTENCES = {
     },
     {
       "jp": "テレビ TV をみる",
-      "roma": "terebi TV womiru"
+      "roma": "terebi TV wo miru"
     },
     {
       "jp": "おんがく music をきく",
-      "roma": "onngaku music wokiku"
+      "roma": "onngaku music wo kiku"
     },
     {
       "jp": "え picture をみる",
-      "roma": "e picture womiru"
+      "roma": "e picture wo miru"
     },
     {
       "jp": "しゃしん photo をみる",
-      "roma": "shashinn photo womiru"
+      "roma": "shashinn photo wo miru"
     },
     {
       "jp": "てがみ letter をかく",
-      "roma": "tegami letter wokaku"
+      "roma": "tegami letter wo kaku"
     },
     {
       "jp": "でんわ phone をつかう",
-      "roma": "dennwa phone wotsukau"
+      "roma": "dennwa phone wo tsukau"
     },
     {
       "jp": "みせ shop にいく",
-      "roma": "mise shop niiku"
+      "roma": "mise shop ni iku"
     },
     {
       "jp": "こうえん park にいく",
-      "roma": "kouenn park niiku"
+      "roma": "kouenn park ni iku"
     },
     {
       "jp": "がっこう school にいく",
-      "roma": "gakkou school niiku"
+      "roma": "gakkou school ni iku"
     },
     {
       "jp": "かばん bag をはこぶ",
-      "roma": "kabann bag wohakobu"
+      "roma": "kabann bag wo hakobu"
     },
     {
       "jp": "つくえ desk をつかう",
-      "roma": "tsukue desk wotsukau"
+      "roma": "tsukue desk wo tsukau"
     },
     {
       "jp": "いす chair にすわる",
-      "roma": "isu chair nisuwaru"
+      "roma": "isu chair ni suwaru"
     },
     {
       "jp": "こくばん blackboard をみる",
-      "roma": "kokubann blackboard womiru"
+      "roma": "kokubann blackboard wo miru"
     },
     {
       "jp": "ほん book をよむ",
-      "roma": "honn book woyomu"
+      "roma": "honn book wo yomu"
     },
     {
       "jp": "うた song をきく",
-      "roma": "uta song wokiku"
+      "roma": "uta song wo kiku"
     },
     {
       "jp": "えんぴつ pencil をつかう",
-      "roma": "ennpitsu pencil wotsukau"
+      "roma": "ennpitsu pencil wo tsukau"
     },
     {
       "jp": "けしごむ eraser をつかう",
-      "roma": "keshigomu eraser wotsukau"
+      "roma": "keshigomu eraser wo tsukau"
     },
     {
       "jp": "のーと notebook にかく",
-      "roma": "no-to notebook nikaku"
+      "roma": "no-to notebook ni kaku"
     },
     {
       "jp": "じゅぎょう lesson をうける",
-      "roma": "jugyou lesson wokeru"
+      "roma": "jugyou lesson wo ukeru"
     },
     {
       "jp": "しゅくだい homework をする",
-      "roma": "shukudai homework wosuru"
+      "roma": "shukudai homework wo suru"
     },
     {
       "jp": "きゅうしょく school lunch をたべる",
-      "roma": "kyuushoku school lunch wotaberu"
+      "roma": "kyuushoku school lunch wo taberu"
     },
     {
       "jp": "てすと test をうける",
-      "roma": "tesuto test wokeru"
+      "roma": "tesuto test wo ukeru"
     },
     {
       "jp": "さかな fish をかぞえる",
-      "roma": "sakana fish wokazoeru"
+      "roma": "sakana fish wo kazoeru"
     },
     {
       "jp": "きょうしつ classroom にはいる",
-      "roma": "kyoushitsu classroom nihairu"
+      "roma": "kyoushitsu classroom ni hairu"
     },
     {
       "jp": "かぞく family とすごす",
-      "roma": "kazoku family tosugosu"
+      "roma": "kazoku family to sugosu"
     },
     {
       "jp": "ともだち friend とはなす",
-      "roma": "tomodachi friend tohanasu"
+      "roma": "tomodachi friend to hanasu"
     },
     {
-      "jp": "おにい brother とあるく",
-      "roma": "onii brother toaruku"
+      "jp": "おとうと brother とあるく",
+      "roma": "otouto brother to aruku"
     },
     {
-      "jp": "おねえ sister とでかける",
-      "roma": "onee sister todekakeru"
+      "jp": "いもうと sister とでかける",
+      "roma": "imouto sister to dekakeru"
     },
     {
-      "jp": "おとう father とでかける",
-      "roma": "otou father todekakeru"
+      "jp": "パパ father とでかける",
+      "roma": "papa father to dekakeru"
     },
     {
-      "jp": "おかあ mother とでかける",
-      "roma": "okaa mother todekakeru"
+      "jp": "ママ mother とでかける",
+      "roma": "mama mother todekakeru"
     },
     {
       "jp": "あか red をぬる",
-      "roma": "aka red wonuru"
+      "roma": "aka red wo nuru"
     },
     {
       "jp": "あお blue をぬる",
-      "roma": "ao blue wonuru"
+      "roma": "ao blue wo nuru"
     },
     {
       "jp": "きいろ yellow をぬる",
-      "roma": "kiiro yellow wonuru"
+      "roma": "kiiro yellow wo nuru"
     },
     {
       "jp": "みどり green をぬる",
-      "roma": "midori green wonuru"
+      "roma": "midori green wo nuru"
     },
     {
       "jp": "くろ black をぬる",
-      "roma": "kuro black wonuru"
+      "roma": "kuro black wo nuru"
     },
     {
       "jp": "しろ white をぬる",
-      "roma": "shiro white wonuru"
+      "roma": "shiro white wo nuru"
     },
     {
       "jp": "だいじょうぶ fine だよ",
@@ -1210,20 +1210,20 @@ const SENTENCES = {
   ],
   "hard": [
     {
-      "jp": "きょうは tomato トマト と soup をつくった",
-      "roma": "kyouha tomato tomato to soup wotsukutta"
+      "jp": "きょうは tomato で スープsoup をつくった",
+      "roma": "kyou ha tomato to su-pu soup wo tsukutta"
     },
     {
       "jp": "きっさてんで sandwich サンドイッチ をたべた",
-      "roma": "kissatennde sandwich sanndoicchi wotabeta"
+      "roma": "kissatennde sandwich sanndoicchi wo tabeta"
     },
     {
       "jp": "こんやは salad サラダ と meat をたべる",
-      "roma": "konnyaha salad sarada to meat wotaberu"
+      "roma": "konnyaha salad sarada to meat wo taberu"
     },
     {
-      "jp": "まいにち noodle ヌードル をすこしだけたべる",
-      "roma": "mainichi noodle nu-doru wosukoshidaketaberu"
+      "jp": "まいにち noodle めん をすこしだけたべる",
+      "roma": "mainichi noodle menn wo sukoshidake taberu"
     },
     {
       "jp": "ひるに hamburger ハンバーガー と tea をのむ",
@@ -1231,383 +1231,383 @@ const SENTENCES = {
     },
     {
       "jp": "おやつに chocolate チョコレート がほしい",
-      "roma": "oyatsuni chocolate chokore-to gahoshii"
+      "roma": "oyatsuni chocolate chokore-to ga hoshii"
     },
     {
       "jp": "きのう hotdog ホットドッグ をはんぶんたべた",
-      "roma": "kinou hotdog hottodoggu wohannbunntabeta"
+      "roma": "kinou hotdog hottodoggu wo hannbunn tabeta"
     },
     {
       "jp": "あしたは pizza ピザ と juice をのむつもり",
-      "roma": "ashitaha pizza piza to juice wonomutsumori"
+      "roma": "ashitaha pizza piza to juice wo nomutsumori"
     },
     {
       "jp": "すっぱい lemon レモン をちょっとしぼる",
-      "roma": "suppai lemon remonn wochottoshiboru"
+      "roma": "suppai lemon remonn wo chotto shiboru"
     },
     {
       "jp": "あまい pear ナシ と bread をたべる",
-      "roma": "amai pear nashi to bread wotaberu"
+      "roma": "amai pear nashi to bread wo taberu"
     },
     {
       "jp": "かおりのよい peach モモ をつつんだ",
-      "roma": "kaorinoyoi peach momo wotsutsunnda"
+      "roma": "kaorinoyoi peach momo wo tsutsunnda"
     },
     {
       "jp": "すずしいへやで butter バター をぬる",
-      "roma": "suzushiiheyade butter bata- wonuru"
+      "roma": "suzushii heyade butter bata- wo nuru"
     },
     {
       "jp": "あついひに soda ソーダ をすこしのむ",
-      "roma": "atsuihini soda so-da wosukoshinomu"
+      "roma": "atsuihini soda so-da wo sukoshi nomu"
     },
     {
       "jp": "こどもが honey ハチミツ をほしがる",
-      "roma": "kodomoga honey hachimitsu wohoshigaru"
+      "roma": "kodomo ga honey hachimitsu wo hoshigaru"
     },
     {
       "jp": "ははが cheese チーズ と egg をつかう",
-      "roma": "hahaga cheese chi-zu to egg wotsukau"
+      "roma": "hahaga cheese chi-zu to egg wo tsukau"
     },
     {
       "jp": "かわで turtle カメ と swim をした",
-      "roma": "kawade turtle kame to swim woshita"
+      "roma": "kawade turtle kame to swim wo shita"
     },
     {
       "jp": "こうえんで deer シカ をみつけた",
-      "roma": "kouennde deer shika womitsuketa"
+      "roma": "kouenn de deer shika wo mitsuketa"
     },
     {
       "jp": "よるに bat コウモリ がとんでいた",
-      "roma": "yoruni bat koumori gatonndeita"
+      "roma": "yoruni bat koumori ga tonndeita"
     },
     {
       "jp": "みずうみで frog カエル がはねる",
-      "roma": "mizuumi de frog kaeru gahaneru"
+      "roma": "mizuumi de frog kaeru ga haneru"
     },
     {
       "jp": "そらを goose ガチョウ がとぶ",
-      "roma": "sora wo goose gachou gatobu"
+      "roma": "sora wo goose gachou ga tobu"
     },
     {
       "jp": "もりで insect ムシ をさがす",
-      "roma": "moride insect mushi wosagasu"
+      "roma": "moride insect mushi wo sagasu"
     },
     {
       "jp": "はるに butterfly チョウ があつまる",
-      "roma": "haruni butterfly chou gaatsumaru"
+      "roma": "haruni butterfly chou ga atsumaru"
     },
     {
       "jp": "どうぶつえんで zebra シマウマ をみた",
-      "roma": "doubutsuenn de zebra shimauma womita"
+      "roma": "doubutsuenn de zebra shimauma wo mita"
     },
     {
       "jp": "ひるに koala コアラ をみおろす",
-      "roma": "hiruni koala koara womiorosu"
+      "roma": "hiruni koala koara wo miorosu"
     },
     {
       "jp": "のはらで fox キツネ をおいかけた",
-      "roma": "noharade fox kitsune wooikaketa"
+      "roma": "noharade fox kitsune wo oikaketa"
     },
     {
       "jp": "よるに wolf オオカミ のこえがきこえた",
-      "roma": "yoruni wolf ookami nokoe gakikoeta"
+      "roma": "yoruni wolf ookami nokoe ga kikoeta"
     },
     {
       "jp": "みなとで dolphin イルカ をみる",
-      "roma": "minatode dolphin iruka womiru"
+      "roma": "minatode dolphin iruka wo miru"
     },
     {
       "jp": "うみで shark サメ をみつけた",
-      "roma": "umide shark same womitsuketa"
+      "roma": "umide shark same wo mitsuketa"
     },
     {
-      "jp": "おおきな turtle カメ と play をした",
-      "roma": "ookina turtle kame to play woshita"
+      "jp": "おおきな turtle カメ と play あそんだ",
+      "roma": "ookina turtle kame to play asonnda"
     },
     {
       "jp": "たにで giraffe キリン をながめる",
-      "roma": "tanide giraffe kirinn wonagameru"
+      "roma": "tanide giraffe kirinn wo nagameru"
     },
     {
       "jp": "いけで duck アヒル があそぶ",
-      "roma": "ikede duck ahiru gaasobu"
+      "roma": "ikede duck ahiru ga asobu"
     },
     {
       "jp": "かわで turtle カメ をたすける",
-      "roma": "kawade turtle kame wotasukeru"
+      "roma": "kawade turtle kame wo tasukeru"
     },
     {
       "jp": "ちかくの museum はくぶつかん で art をみた",
-      "roma": "chikakuno museum hakubutsukann de art womita"
+      "roma": "chikakuno museum hakubutsukann de art wo mita"
     },
     {
       "jp": "こうえんの zoo どうぶつえん で lion をみる",
-      "roma": "kouennno zoo doubutsuen de lion womiru"
+      "roma": "kouennno zoo doubutsuen de lion wo miru"
     },
     {
       "jp": "まちの library としょかん で book をかりた",
-      "roma": "machino library toshokann de book wokarita"
+      "roma": "machino library toshokann de book wo karita"
     },
     {
-      "jp": "schoolyard こうてい で run をれんしゅうした",
-      "roma": "schoolyard koutei de run worennshuushita"
+      "jp": "schoolyard こうてい で run のれんしゅうした",
+      "roma": "schoolyard koutei de run no rennshuushita"
     },
     {
       "jp": "しずかな hospital びょういん で wait していた",
       "roma": "shizukana hospital byouinn de wait shiteita"
     },
     {
-      "jp": "えきで station えき の map をみた",
-      "roma": "ekide station eki no map womita"
+      "jp": "えき stationで ちず map をみた",
+      "roma": "eki station de chizu map wo mita"
     },
     {
       "jp": "まちの supermarket スーパー で bag をかう",
-      "roma": "machino supermarket su-pa- de bag wokau"
+      "roma": "machino supermarket su-pa- de bag wo kau"
     },
     {
       "jp": "しずかな library としょかん で study をした",
-      "roma": "shizukana library toshokann de study woshita"
+      "roma": "shizukana library toshokann de study wo shita"
     },
     {
       "jp": "こうさてんで bank ぎんこう のひととあった",
-      "roma": "kousatennde bank ginkou nohitotoatta"
+      "roma": "kousatenn de bank ginkou no hito to atta"
     },
     {
       "jp": "おみせで store みせ のひととはなす",
-      "roma": "omisedestore mise nohito tohanasu"
+      "roma": "omisede store mise nohito to hanasu"
     },
     {
-      "jp": "きっさてんで restaurant レストラン のめにゅーをよむ",
-      "roma": "kissatennde restaurant resutorann no menyu- woyomu"
+      "jp": "restaurant レストラン のめにゅーをよむ",
+      "roma": "restaurant resutorann no menyu- wo yomu"
     },
     {
-      "jp": "みずうみのほとりで beach ビーチ にすわる",
-      "roma": "mizuuminohotoride beach bi-chi nisuwaru"
+      "jp": "すなはま beach にすわる",
+      "roma": "sunahama beach ni suwaru"
     },
     {
-      "jp": "かわぎしの riverbank かわぎし をあるく",
-      "roma": "kawagishino riverbank kawagishi woaruku"
+      "jp": "riverbank かわぎし をあるく",
+      "roma": "riverbank kawagishi wo aruku"
     },
     {
       "jp": "あさに mountain やま をのぼった",
-      "roma": "asani mountain yama wonobotta"
+      "roma": "asani mountain yama wo nobotta"
     },
     {
-      "jp": "みちで bridge はし をわたった",
-      "roma": "michide bridge hashi wowatatta"
+      "jp": "bridge はし をわたった",
+      "roma": "bridge hashi wo watatta"
     },
     {
       "jp": "まちの post office ゆうびんきょく へいった",
-      "roma": "machino post office yuubinnkyoku heitta"
+      "roma": "machino post office yuubinnkyoku he itta"
     },
     {
       "jp": "じぶんの room へや で clean をした",
-      "roma": "jibunnno room heya de clean woshita"
+      "roma": "jibunnno room heya de clean wo shita"
     },
     {
-      "jp": "まよなかに midnight まよなか におきた",
-      "roma": "mayonakani midnight mayonaka niokita"
+      "jp": "midnight まよなか に おきた",
+      "roma": "midnight mayonaka ni okita"
     },
     {
       "jp": "きょうは uniform ユニフォーム をきる",
-      "roma": "kyouha uniform yunifo-mu wokiru"
+      "roma": "kyouha uniform yunifo-mu wo kiru"
     },
     {
       "jp": "すきな subject かもく をえらぶ",
-      "roma": "sukina subject kamoku woerabu"
+      "roma": "sukina subject kamoku wo erabu"
     },
     {
       "jp": "English えいご のじゅぎょうをはじめる",
-      "roma": "English eigo nojugyou wohajimeru"
+      "roma": "English eigo no jugyou wo hajimeru"
     },
     {
-      "jp": "すうがくの math さんすう をべんきょう",
-      "roma": "suugakuno math sannsuu wobenkyo-"
+      "jp": "math さんすう をべんきょうする",
+      "roma": "math sannsuu wo benkyou suru"
     },
     {
       "jp": "science かがく のじっけんをみる",
-      "roma": "science kagaku nojikkenn womiru"
+      "roma": "science kagaku no jikkenn wo miru"
     },
     {
       "jp": "art びじゅつ のじかんにえをかく",
-      "roma": "art bijutsu nojikann ni e wokaku"
+      "roma": "art bijutsu no jikann ni e wo kaku"
     },
     {
       "jp": "PE たいいく で jump をした",
-      "roma": "PE taiiku de jump woshita"
+      "roma": "PE taiiku de jump wo shita"
     },
     {
       "jp": "internet インターネット をつかう",
-      "roma": "internet innta-netto wotsukau"
+      "roma": "internet innta-netto wo tsukau"
     },
     {
       "jp": "tablet タブレット で picture をかく",
       "roma": "tablet taburetto de picture wokaku"
     },
     {
-      "jp": "team チーム の record をみる",
-      "roma": "team chi-mu no record womiru"
+      "jp": "team チーム の record きろく をみる",
+      "roma": "team chi-mu no record kiroku wo miru"
     },
     {
-      "jp": "club クラブ の goal をめざす",
-      "roma": "club kurabu no goal womezusu"
+      "jp": "club クラブ の みんなで goal をめざす",
+      "roma": "club kurabu no minnnade goal womezusu"
     },
     {
-      "jp": "きませる line ならび をなおす",
-      "roma": "kimaseru line narabi wonaosu"
+      "jp": "line ならび をなおす",
+      "roma": "line narabi wo naosu"
     },
     {
-      "jp": "げんかんで shoes くつ をそろえる",
-      "roma": "gennkannde shoes kutsu wosoroeru"
+      "jp": "げんかんで shoes をそろえる",
+      "roma": "gennkannde shoes wo soroeru"
     },
     {
-      "jp": "たんじょうびに present プレゼント をもらう",
-      "roma": "tannjoubi ni present purezennto wo morau"
+      "jp": "たんじょうびに present をもらう",
+      "roma": "tannjoubi ni present wo morau"
     },
     {
       "jp": "festival おまつり にいくよてい",
-      "roma": "festival omatsuri niikuyotei"
+      "roma": "festival omatsuri ni ikuyotei"
     },
     {
       "jp": "きょうは event できごと がいっぱい",
-      "roma": "kyouha event dekigoto gaippai"
+      "roma": "kyouha event dekigoto ga ippai"
     },
     {
-      "jp": "たなばたの calendar カレンダー をつくる",
-      "roma": "tanabata no calendar karennda- wotsukuru"
+      "jp": "らいねんの calendar カレンダー をつくる",
+      "roma": "rainenn no calendar karennda- wo tsukuru"
     },
     {
       "jp": "autumn あき のかぜをかんじる",
-      "roma": "autumn aki nokazewokannjiru"
+      "roma": "autumn aki no kaze wo kannjiru"
     },
     {
-      "jp": "spring はる ははながさいた",
-      "roma": "spring haru hahana gasaita"
+      "jp": "spring はる は はながさく",
+      "roma": "spring haru ha hana ga saku"
     },
     {
-      "jp": "summer なつ はうみであそぶ",
-      "roma": "summer natsu haumi deasobu"
+      "jp": "summer なつ は うみであそぶ",
+      "roma": "summer natsu ha umi de asobu"
     },
     {
-      "jp": "winter ふゆ はゆきがふる",
-      "roma": "winter fuyu hayuki gafuru"
+      "jp": "winter ふゆ は ゆきがふる",
+      "roma": "winter fuyu ha yuki ga furu"
     },
     {
-      "jp": "きょうの birthday たんじょうび をいわう",
-      "roma": "kyouno birthday tannjoubi wo iwau"
+      "jp": "birthday たんじょうび をいわう",
+      "roma": "birthday tannjoubi wo iwau"
     },
     {
       "jp": "holiday やすみ にでかける",
-      "roma": "holiday yasumi nidekakeru"
+      "roma": "holiday yasumi ni dekakeru"
     },
     {
       "jp": "しずかな night よる に story をよむ",
-      "roma": "shizukana night yoru ni story woyomu"
+      "roma": "shizukana night yoru ni story wo yomu"
     },
     {
-      "jp": "いまの time とき をかんじる",
-      "roma": "imano time toki wokannjiru"
+      "jp": "time とき は かねなり",
+      "roma": "time toki ha kanenari"
     },
     {
       "jp": "だいすきな music おんがく をきく",
-      "roma": "daisukina music ongaku wokiku"
+      "roma": "daisukina music ongaku wo kiku"
     },
     {
       "jp": "TV テレビ のまえですごす",
-      "roma": "TV terebi nomaede sugosu"
+      "roma": "TV terebi no maede sugosu"
     },
     {
       "jp": "picture え をたくさんみる",
-      "roma": "picture e wotakusannmiru"
+      "roma": "picture e wo takusann miru"
     },
     {
       "jp": "photo しゃしん をとった",
-      "roma": "photo shashinn wototta"
+      "roma": "photo shashinn wo totta"
     },
     {
       "jp": "letter てがみ をかいた",
-      "roma": "letter tegami wokaita"
+      "roma": "letter tegami wo kaita"
     },
     {
-      "jp": "ゆうぐで swing ブランコ をこぐ",
-      "roma": "yu-gude swing burannko wokogu"
+      "jp": "swing ブランコ であそぶ",
+      "roma": "swing burannko de asobu"
     },
     {
       "jp": "やわらかい grass くさ にすわる",
-      "roma": "yawarakai grass kusa nisuwaru"
+      "roma": "yawarakai grass kusa ni suwaru"
     },
     {
       "jp": "forest もり をあるく",
-      "roma": "forest mori woaruku"
+      "roma": "forest mori wo aruku"
     },
     {
       "jp": "fire ひ をみつめる",
-      "roma": "fire hi womitsumeru"
+      "roma": "fire hi wo mitsumeru"
     },
     {
       "jp": "star ほし がかがやく",
-      "roma": "star hoshi gakagayaku"
+      "roma": "star hoshi ga kagayaku"
     },
     {
       "jp": "sky そら をみあげる",
-      "roma": "sky sora womiageru"
+      "roma": "sky sora wo miageru"
     },
     {
-      "jp": "いし stone いし をひろう",
-      "roma": "ishi stone ishi wohirou"
+      "jp": "stone いし をひろう",
+      "roma": "stone ishi wo hirou"
     },
     {
       "jp": "そとは wind かぜ がつよい",
-      "roma": "sotoha wind kaze gatsuyoi"
+      "roma": "sotoha wind kaze ga tsuyoi"
     },
     {
       "jp": "いけで frog カエル をさがす",
-      "roma": "ikede frog kaeru wosagasu"
+      "roma": "ikede frog kaeru wo sagasu"
     },
     {
-      "jp": "さとうに honey ハチミツ をかけた",
-      "roma": "satouni honey hachimitsu wokaketa"
+      "jp": "ヨーグルトに honey ハチミツ をかけた",
+      "roma": "yo-gurutoni honey hachimitsu wo kaketa"
     },
     {
       "jp": "くだものに ice こおり をのせる",
-      "roma": "kudamononi ice koori wonoseru"
+      "roma": "kudamononi ice koori wo noseru"
     },
     {
       "jp": "hill おか をのぼる",
       "roma": "hill oka wonoboru"
     },
     {
-      "jp": "farm のうじょう で work をてつだう",
-      "roma": "farm noujou de work wotetsudau"
+      "jp": "farm のうじょう で work しごと をてつだう",
+      "roma": "farm noujou de work shigoto wo tetsudau"
     },
     {
       "jp": "そらに lightning いなずま がひかった",
-      "roma": "sorani lightning inazuma gahikatta"
+      "roma": "sorani lightning inazuma ga hikatta"
     },
     {
-      "jp": "まちの coat コート をかう",
-      "roma": "machino coat ko-to wokau"
+      "jp": "あたたかい coat コート をかう",
+      "roma": "あたたかい coat ko-to wo kau"
     },
     {
-      "jp": "jacket ジャケット をきてでかける",
-      "roma": "jacket jaketto wokitedekakeru"
+      "jp": "jacket うわぎ をきてでかける",
+      "roma": "jacket uwagi wo kitedekakeru"
     },
     {
       "jp": "たいようの light ひかり をあびる",
-      "roma": "taiyouno light hikari woabiru"
+      "roma": "taiyouno light hikari wo abiru"
     },
     {
       "jp": "map ちず をみながらあるく",
-      "roma": "map chizu wominaragaaruku"
+      "roma": "map chizu wo minagara aruku"
     },
     {
-      "jp": "shoes くつ をしっかりはく",
-      "roma": "shoes kutsu woshikkarihaku"
+      "jp": "shoes をしっかりはく",
+      "roma": "shoes wo shikkari haku"
     },
     {
-      "jp": "さいごに toy おもちゃ をなおす",
-      "roma": "saigoni toy omocha wonaosu"
+      "jp": "だいじな toy おもちゃ をなおす",
+      "roma": "daijina toy omocha wonaosu"
     }
   ],
   "challenge": [
@@ -1621,7 +1621,7 @@ const SENTENCES = {
     },
     {
       "jp": "じゅぎょうで difficult な problem にちょうせんした",
-      "roma": "jugyoude difficult na problem nichousenn shita"
+      "roma": "jugyoude difficult na problem ni chousenn shita"
     },
     {
       "jp": "ゆうがたに little な bird がそらをはばたいた",
@@ -1629,59 +1629,55 @@ const SENTENCES = {
     },
     {
       "jp": "おおきな mountain のうえで strong wind がふいた",
-      "roma": "ookina mountain nouede strong wind gafuita"
+      "roma": "ookina mountain no uede strong wind ga fuita"
     },
     {
       "jp": "しずかな forest で rabbit がすばやくはしった",
-      "roma": "shizukana forest derabbit gasubayakuhashitta"
+      "roma": "shizukana forest de rabbit ga subayaku hashitta"
     },
     {
       "jp": "まよなかに bright star がいくつもひかった",
-      "roma": "mayonakani bright star gaikutsumohikatta"
+      "roma": "mayonaka ni bright star ga ikutsumo hikatta"
     },
     {
       "jp": "きゅうに heavy rain がふりだしてかさがとんだ",
-      "roma": "kyuuni heavy rain gafuridashitekasa gatonnda"
+      "roma": "kyuuni heavy rain ga furidashite kasa ga tonnda"
     },
     {
       "jp": "かぜのなかで light bag をしっかりもった",
-      "roma": "kazenonakade light bag woshikkarimotta"
+      "roma": "kazenonakade light bag wo shikkarimotta"
     },
     {
       "jp": "しゃしんで funny face をいっぱいとった",
-      "roma": "shashinnde funny face woippaitotta"
+      "roma": "shashinnde funny face wo ippai totta"
     },
     {
-      "jp": "いえで quick cook をみながらりょうりした",
-      "roma": "iede quick cook wominarar yourishita"
+      "jp": "こうえんで turtle が slow ゆっくりあるいた",
+      "roma": "kouennde turtle ga  slow yukkuri aruita"
     },
     {
-      "jp": "こうえんで slow turtle がゆっくりあるいた",
-      "roma": "kouennde slow turtle gayukkuriaruita"
+      "jp": "うみで sharp rock するどい いわ を ふまないようにあるく",
+      "roma": "umide sharp rock surudoi iwa wo fumanaiyouni aruku"
     },
     {
-      "jp": "うみで sharp rock をふまないようにあるく",
-      "roma": "umide sharp rock wofumanaiyouniaruku"
+      "jp": "まちには busy people いそがしい ひとたち が あふれていた",
+      "roma": "machiniha busy people isogashii hitotachi ga ahureteita"
     },
     {
-      "jp": "まちで busy people がいそいであるいていた",
-      "roma": "machide busy people gaisoidéaruiteita"
+      "jp": "つよい wind によろけて 小さな small tree がゆれた",
+      "roma": "tsuyoi wind niyorokete chiisana small tree gayureta"
     },
     {
-      "jp": "つよい wind によろけて small tree がゆれた",
-      "roma": "tsuyoi wind niyorokete small tree gayureta"
-    },
-    {
-      "jp": "きゅうに close door がバタンとしまった",
-      "roma": "kyuuni close door gabatanntoshimatta"
+      "jp": "きゅうに door がバタンとしまった",
+      "roma": "kyuuni door ga batannto shimatta"
     },
     {
       "jp": "みずたまりに young frog がたくさんはねた",
-      "roma": "mizutamarini young frog gatakusannhaneta"
+      "roma": "mizutamarini young frog ga takusann haneta"
     },
     {
-      "jp": "まどのそとで clever cat がじっとみていた",
-      "roma": "madosotode clever cat gajittomiteita"
+      "jp": "まどのそとで かしこい clever cat がじっとみていた",
+      "roma": "madosotode kashikoi clever cat ga jittomiteita"
     },
     {
       "jp": "キッチンで simple lunch をさっとつくった",
@@ -1704,16 +1700,16 @@ const SENTENCES = {
       "roma": "kyouha great friend gauchinikita"
     },
     {
-      "jp": "おおきな house のなかで magic sound がひびく",
-      "roma": "ookina house nonakade magic sound gahibiku"
+      "jp": "house のなかで おおきな sound がひびく",
+      "roma": "house no nakade ookina sound ga hibiku"
     },
     {
       "jp": "しゃしんに pretty flower がいくつもうつっていた",
-      "roma": "shashinn ni pretty flower gaikutsumoutsutteita"
+      "roma": "shashinn ni pretty flower ga ikutsumo utsutteita"
     },
     {
       "jp": "しずかな room で music をながしてやすんだ",
-      "roma": "shizukanna room de music wonagashiteyasunda"
+      "roma": "shizukanna room de music wo nagashite yasunda"
     },
     {
       "jp": "あかるい light のしたで picture をかいた",
@@ -1721,7 +1717,7 @@ const SENTENCES = {
     },
     {
       "jp": "にわで short grass をきれいにそろえた",
-      "roma": "niwade short grass wokireenisoroeta"
+      "roma": "niwade short grass wokireeni soroeta"
     },
     {
       "jp": "へやに special present がそっとおかれていた",
@@ -1729,7 +1725,7 @@ const SENTENCES = {
     },
     {
       "jp": "あついひに cool drink をいっぱいのんだ",
-      "roma": "atsuihini cool drink woippainonnda"
+      "roma": "atsuihini cool drink wo ippai nonnda"
     },
     {
       "jp": "しずかな night に soft wind がふいた",
@@ -1737,15 +1733,11 @@ const SENTENCES = {
     },
     {
       "jp": "うみで long fish がすばやくおよいだ",
-      "roma": "umide long fish gasubayakuoyoida"
+      "roma": "umide long fish ga subayakuoyoida"
     },
     {
-      "jp": "さむいあさに quick step でがっこうへいく",
-      "roma": "samuiasani quick step degakkoueiku"
-    },
-    {
-      "jp": "じぶんの room で secret note をこっそりかく",
-      "roma": "jibunnno room de secret note wossorikaku"
+      "jp": "じぶんの room で ひみつの secret note をこっそりかく",
+      "roma": "jibunnno room de himitsuno secret note wo ssorikaku"
     },
     {
       "jp": "ひるに bright sun がまぶしくかがやく",
@@ -1753,15 +1745,15 @@ const SENTENCES = {
     },
     {
       "jp": "まちの shop で smart phone をみつけた",
-      "roma": "machino shop de smart phone womitsuketa"
+      "roma": "machino shop de smart phone wo mitsuketa"
     },
     {
       "jp": "そとで hard work をてつだってほめられた",
-      "roma": "sotode hard work wotetsudattehomerareta"
+      "roma": "sotode hard work wo tetsudatte homerareta"
     },
     {
-      "jp": "やまみちで tiny bug がはっぱにのっていた",
-      "roma": "yamamichide tiny bug gahappaninotteita"
+      "jp": "tiny bug ちいさなむし が はっぱにのっていた",
+      "roma": "tiny bug chiisana mushi ga happani notteita"
     },
     {
       "jp": "かわで strong water におされてあしがぬれた",
@@ -1773,15 +1765,15 @@ const SENTENCES = {
     },
     {
       "jp": "きょうは lucky day なのであそびにいく",
-      "roma": "kyouha lucky day nanodeasobiniiku"
+      "roma": "kyouha lucky day nanode asobiniiku"
     },
     {
       "jp": "えきで small map をひろげてみる",
-      "roma": "ekide small map wohirogetemiru"
+      "roma": "ekide small map wo hirogetemiru"
     },
     {
       "jp": "みちで heavy box をふたりでかついだ",
-      "roma": "michide heavy box wofutaridekatsuida"
+      "roma": "michide heavy box wo futaridekatsuida"
     },
     {
       "jp": "さむいよるに bright fire がゆらめいた",
@@ -1797,15 +1789,15 @@ const SENTENCES = {
     },
     {
       "jp": "きゅうに huge sound がそらにひびいた",
-      "roma": "kyuuni huge sound gasoranihibiita"
+      "roma": "kyuuni huge sound ga soranihibiita"
     },
     {
       "jp": "そとで clean sky をながめてほっとした",
-      "roma": "sotode clean sky wonagametehottoshita"
+      "roma": "sotode clean sky wo nagamete hottoshita"
     },
     {
       "jp": "じむで strong kick のれんしゅうをする",
-      "roma": "jimude strong kick norennshuuwosuru"
+      "roma": "jimude strong kick no rennshuu wo suru"
     },
     {
       "jp": "へやで clear voice をきいてねむくなる",
@@ -1813,11 +1805,11 @@ const SENTENCES = {
     },
     {
       "jp": "こうえんで magic show をみることができた",
-      "roma": "kouennde magic show womirukotogadekita"
+      "roma": "kouennde magic show wo mirukotoga dekita"
     },
     {
       "jp": "あさに simple breakfast をさっとたべた",
-      "roma": "asani simple breakfast wosattotabeta"
+      "roma": "asani simple breakfast wo satto tabeta"
     },
     {
       "jp": "あついひに sweet candy をもらった",
@@ -1829,107 +1821,107 @@ const SENTENCES = {
     },
     {
       "jp": "つよい rain がふってふくがぬれた",
-      "roma": "tsuyoi rain gafuttefukuganureta"
+      "roma": "tsuyoi rain ga futte fukuga nureta"
     },
     {
       "jp": "うりばで cheap toy をみつけてよろこんだ",
-      "roma": "uribade cheap toy womitsuketeyorokonnda"
+      "roma": "uribade cheap toy wo mitsukete yorokonnda"
     },
     {
-      "jp": "にじいろの bright rainbow にみとれた",
-      "roma": "nijiiro no bright rainbow nimitoreta"
+      "jp": "big rainbow にみとれた",
+      "roma": "bih rainbow ni mitoreta"
     },
     {
-      "jp": "へやで rich music がながれていた",
-      "roma": "heyade rich music ganagareteita"
+      "jp": "へやで music がながれていた",
+      "roma": "heyade music ganagareteita"
     },
     {
       "jp": "そとで lucky find をした",
       "roma": "sotode lucky find woshita"
     },
     {
-      "jp": "かわで long bridge をわたった",
-      "roma": "kawade long bridge wowatatta"
+      "jp": "となりのまちへつながる long bridge をわたった",
+      "roma": "tonarino machi he tsunagaru long bridge wo watatta"
     },
     {
-      "jp": "つよい lightning がよるそらをさいた",
-      "roma": "tsuyoi lightning gayorusorawosaita"
+      "jp": "つよい lightning がよぞらをさいた",
+      "roma": "tsuyoi lightning ga yozora wo saita"
     },
     {
       "jp": "やまのうえで clear air をすった",
-      "roma": "yamanouede clear air wosutta"
+      "roma": "yamanoue de clear air wo sutta"
     },
     {
       "jp": "まちで sharp sound があちこちでした",
-      "roma": "machide sharp sound gaachikochideshita"
+      "roma": "machide sharp sound gaachikochide shita"
     },
     {
       "jp": "こうえんで giant tree がゆれていた",
-      "roma": "kouennde giant tree gayureteita"
+      "roma": "kouennde giant tree ga yureteita"
     },
     {
       "jp": "あさに fresh juice をのみほした",
-      "roma": "asani fresh juice wonomihoshita"
+      "roma": "asani fresh juice wo nomihoshita"
     },
     {
       "jp": "ちいさな room に strong smell がのこった",
-      "roma": "chiisana room ni strong smell ganokotta"
+      "roma": "chiisana room ni strong smell ga nokotta"
     },
     {
       "jp": "さむいひに warm soup をのみたかった",
-      "roma": "samuihini warm soup wonomitakatta"
+      "roma": "samuihini warm soup wo nomitakatta"
     },
     {
       "jp": "heavy rain のあとにしろいゆきがふった",
-      "roma": "heavy rain noatoni shiroiyuki gafutta"
+      "roma": "heavy rain noatoni shiroi yuki gafutta"
     },
     {
       "jp": "しずかな lake に little boat がうかんだ",
-      "roma": "shizukana lake ni little boat gaukannda"
+      "roma": "shizukana lake ni little boat ga ukannda"
     },
     {
       "jp": "きのう pretty dress をみかけた",
-      "roma": "kinou pretty dress womikaketa"
+      "roma": "kinou pretty dress wo mikaketa"
     },
     {
-      "jp": "えいがの loud sound がむねにひびく",
-      "roma": "eigano loud sound gamunenihibiku"
+      "jp": "よなかに loud sound はめいわくだ",
+      "roma": "yonakani loud sound ha meiwakuda"
     },
     {
       "jp": "evening に cool wind がふいていた",
-      "roma": "evening ni cool wind gafuiteita"
+      "roma": "evening ni cool wind ga fuiteita"
     },
     {
-      "jp": "かさをさして slow walk ではしってきた",
-      "roma": "kasa wosashite slow walk dehashittekita"
+      "jp": "かさをさして slow walk でむかいます",
+      "roma": "kasa wosashite slow walk de mukaimasu"
     },
     {
-      "jp": "しずかな森に magic voice がきこえた",
-      "roma": "shizukanamori ni magic voice gakikoeta"
+      "jp": "しずかなもりのおくから voice がきこえた",
+      "roma": "shizukanamorinookukara voice ga kikoeta"
     },
     {
       "jp": "かわのそばで wild bird がさけんだ",
-      "roma": "kawanosobade wild bird gasakennda"
+      "roma": "kawanosobade wild bird ga sakennda"
     },
     {
       "jp": "さむいよるに hot drink をのんであたたまる",
-      "roma": "samuiyoruni hot drink wononndeatatamaru"
+      "roma": "samuiyoruni hot drink wo nonnde atatamaru"
     },
     {
       "jp": "みちで quick run をしてころんだ",
-      "roma": "michide quick run woshitekoronnda"
+      "roma": "michide quick run wo shite koronnda"
     },
     {
       "jp": "びみょうな light change をみのがさない",
-      "roma": "bimyou na light change wominosanai"
+      "roma": "bimyou na light change wo minosanai"
     },
     {
       "jp": "くもった sky に rainbow color がかすかにみえた",
-      "roma": "kumotta sky ni rainbow color gakasukanimieta"
+      "roma": "kumotta sky ni rainbow color ga kasukanimieta"
     },
     {
-      "jp": "ほしぞらで tiny light がまたたいた",
-      "roma": "hoshizorade tiny light gamatataita"
+      "jp": "ほしぞらで tiny light ちいさなひかりがまたたいた",
+      "roma": "hoshizorade tiny light chiisana hikari ga matataita"
     },
     {
       "jp": "つよい wind のなかで little leaf がまっている",
@@ -1937,75 +1929,75 @@ const SENTENCES = {
     },
     {
       "jp": "すばやい step で busy street をわたる",
-      "roma": "subayai step de busy street wowataru"
+      "roma": "subayai step de busy street wo wataru"
     },
     {
       "jp": "しんかんせんの strong noise がひびく",
-      "roma": "shinnkannsenn no strong noise gahibiku"
+      "roma": "shinnkannsenn no strong noise ga hibiku"
     },
     {
       "jp": "じてんしゃで gentle slope をのぼる",
-      "roma": "jitennshade gentle slope wonoboru"
+      "roma": "jitennshade gentle slope wo noboru"
     },
     {
       "jp": "こうえんで happy smile をみせた",
       "roma": "kouennde happy smile womiseta"
     },
     {
-      "jp": "しずかなよるに deep blue がひろがる",
-      "roma": "shizukanayoruni deep blue gahirogaru"
+      "jp": "よるのうみは deep blue がひろがる",
+      "roma": "yorunoumiha deep blue ga hirogaru"
     },
     {
-      "jp": "みずうみに small boat がしずんでいく",
-      "roma": "mizuumi ni small boat gushizunndeiku"
+      "jp": "みずうみに small boat がういている",
+      "roma": "mizuumi ni small boat gu uiteiru"
     },
     {
       "jp": "うみで wild fish におわれてにげた",
-      "roma": "umide wild fish niowaretenigeta"
+      "roma": "umide wild fish ni owarete nigeta"
     },
     {
       "jp": "もりで magic light がこもれびになる",
-      "roma": "moride magic light gakomorebininaru"
+      "roma": "moride magic light ga komorebini naru"
     },
     {
-      "jp": "げんかんで soft shoes をそろえた",
-      "roma": "genkannde soft shoes wosoroeta"
+      "jp": "soft shoes をはいて まちへでかけた",
+      "roma": "soft shoes wo haite machihe dekaketa"
     },
     {
       "jp": "かわで clear stone をひろう",
-      "roma": "kawade clear stone wohirou"
+      "roma": "kawade clear stone wo hirou"
     },
     {
       "jp": "あついひに sweet melon をもらった",
-      "roma": "atsuihini sweet melon womoratta"
+      "roma": "atsuihini sweet melon wo moratta"
     },
     {
-      "jp": "こうさてんで quick turn をきめた",
-      "roma": "kousatennde quick turn wokimeta"
+      "jp": "じてんしゃがきたので quick turn してよけた",
+      "roma": "jitenshaga kitanode quick turn shite yoketa"
     },
     {
-      "jp": "やまみちで strong leg をつかってのぼる",
-      "roma": "yamamichide strong leg wotsukattenoboru"
+      "jp": "やまみちをのぼって strong leg をつくるのだ",
+      "roma": "yamamichiwo nobotte strong leg wo tukurunoda"
     },
     {
-      "jp": "まどのそとで gentle rain がひかえめにふる",
-      "roma": "madosotode gentle rain gahikaemenifuru"
+      "jp": "まどのそとで gentle rain がふっているのがみえた",
+      "roma": "madosotode gentle rain ga futteirunoga mieta"
     },
     {
       "jp": "よるの town に bright sign がまたたく",
-      "roma": "yoruno town ni bright sign gamatataku"
+      "roma": "yoruno town ni bright sign ga matataku"
     },
     {
       "jp": "heavy wind におされてふらふらあるく",
-      "roma": "heavy wind niosaretefurafuraaruku"
+      "roma": "heavy wind ni osarete furafura aruku"
     },
     {
       "jp": "へやで slow music をながしてねむくなる",
       "roma": "heyade slow music wonagashitenemukunaru"
     },
     {
-      "jp": "かわのほとりで deep shadow がのびていた",
-      "roma": "kawanohotoride deep shadow ganobiteita"
+      "jp": "river のほとりで shadow がのびていた",
+      "roma": "river no hotoride shadow ga nobiteita"
     },
     {
       "jp": "いえのなかで soft light がほのかにひかる",
